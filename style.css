@@ -28,7 +28,6 @@
 
 summary {
     list-style: none;
-    font-size: 32px;
 }
 
 summary::-webkit-details-marker {
@@ -36,10 +35,12 @@ summary::-webkit-details-marker {
 }
 
 summary::before {
+    font-size: 32px;
     content: '📁↩';
 }
 
 summary span {
+    font-size: 32px;
     font-weight: bolder;
 }
 
