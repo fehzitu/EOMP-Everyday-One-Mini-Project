@@ -83,7 +83,7 @@ But:
 
 ## 🔥 Status
 
-Progress: 0 / 100<br>
+Progress: 1 / 100<br>
 Starting date: 20/02/2026<br>
 Ending date: ???<br>
 
