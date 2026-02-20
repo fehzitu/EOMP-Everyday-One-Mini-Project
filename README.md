@@ -94,3 +94,6 @@ Ending date: ???<br>
 ``Built every single day``.
 
 Welcome to **EOMP** by **fehzitu**.
+
+``🌐 Live demo``
+[Click me!](https://fehzitu.github.io/EOMP-Everyday-One-Mini-Project/)
