@@ -95,5 +95,4 @@ Ending date: ???<br>
 
 Welcome to **EOMP** by **fehzitu**.
 
-**``🌐 Live demo``
- Click me!](https://fehzitu.github.io/EOMP-Everyday-One-Mini-Project/)**
+**``🌐 Live demo`` [Click me!](https://fehzitu.github.io/EOMP-Everyday-One-Mini-Project/)**
